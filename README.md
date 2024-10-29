@@ -37,9 +37,7 @@
 
 ## 项目预览
 
-![明亮模式](https://foruda.gitee.com/images/1709651876583793739/0ba1ee1c_716974.png)
-
-![暗黑模式](https://foruda.gitee.com/images/1709651875494206224/2a2b0b53_716974.png)
+![明亮模式](https://github.com/HupJu/wisdomTransport/blob/master/public/image/dashboard.png)
 
 ![接口文档](https://foruda.gitee.com/images/1687755822857820115/96054330_716974.png)
 
