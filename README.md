@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/Vite-5.3.5-green.svg"/>
   <img src="https://img.shields.io/badge/Element Plus-2.7.8-blue.svg"/>
   <img src="https://img.shields.io/badge/license-MIT-green.svg"/>
-  <a href="https://gitee.com/youlaiorg" target="_blank">
-      <img src="https://img.shields.io/badge/Author-有来开源组织-orange.svg"/>
-  </a>
 </div>
 
 ![](https://foruda.gitee.com/images/1708618984641188532/a7cca095_716974.png "rainbow.png")
@@ -18,14 +15,12 @@
 
 ## 项目简介
 
-[vue3-element-admin](https://gitee.com/youlaiorg/vue3-element-admin) 是基于 Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia 等主流技术栈构建的免费开源的中后台管理的前端模板（配套[Java 后端源码](https://gitee.com/youlaiorg/youlai-boot)）。
+[vue3-element-admin](https://github.com/HupJu/wisdomTransport/tree/master?tab=readme-ov-file) 是基于 Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia 等主流技术栈构建的免费开源的中后台管理的前端模板。
 
 
 ## 项目特色
 
-- **简洁易用**：基于 [vue-element-admin](https://gitee.com/panjiachen/vue-element-admin) 升级的 Vue3 版本，无过渡封装 ，易上手。
-
-- **数据交互**：同时支持本地 `Mock` 和线上接口，配套 [Java 后端源码](https://gitee.com/youlaiorg/youlai-boot)和[在线接口文档](https://www.apifox.cn/apidoc/shared-195e783f-4d85-4235-a038-eec696de4ea5)。
+- **简洁易用**：基于 [vue-element-admin](https://github.com/HupJu/wisdomTransport/tree/master?tab=readme-ov-file) 升级的 Vue3 版本，无过渡封装 ，易上手。
 
 - **权限管理**：用户、角色、菜单、字典、部门等完善的权限系统功能。
 
@@ -38,8 +33,6 @@
 ## 项目预览
 
 ![明亮模式](https://github.com/HupJu/wisdomTransport/blob/master/public/image/dashboard.png)
-
-![接口文档](https://foruda.gitee.com/images/1687755822857820115/96054330_716974.png)
 
 
 ## 环境准备
